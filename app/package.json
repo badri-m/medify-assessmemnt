@@ -1,0 +1,13 @@
+{
+  "name": "devops-assessment-app",
+  "version": "1.0.0",
+  "description": "Junior DevOps Engineer practical assessment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
